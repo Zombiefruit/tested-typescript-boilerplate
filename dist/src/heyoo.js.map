@@ -1,0 +1,1 @@
+{"version":3,"file":"heyoo.js","sourceRoot":"","sources":["../../src/heyoo.ts"],"names":[],"mappings":";;AAAA,IAAM,IAAI,GAAG,QAAQ,CAAC,aAAa,CAAC,MAAM,CAAC,CAAC;AAC5C,IAAI,CAAC,SAAS,GAAG,UAAU,CAAC;AAC5B,kBAAe,IAAI,CAAC","sourcesContent":["const test = document.createElement('span');\ntest.innerText = 'heyooooo';\nexport default test;\n"]}
